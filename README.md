@@ -1,5 +1,3 @@
-Certainly! Here's a refined version:
-
 ---
 
 # Suyog Sharma 💻
