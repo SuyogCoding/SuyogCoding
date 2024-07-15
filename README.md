@@ -8,13 +8,25 @@ My expertise lies in crafting dynamic web applications using a variety of techno
 With a passion for problem-solving and a commitment to delivering high-quality code, I strive to create efficient and user-friendly solutions for my clients.
 
 ## Skills 🚀
-- 🌐 HTML5
-- 🎨 CSS3
-- 💻 JavaScript
-- 🐍 Python
-- 🌐 Django
-- 🎨 UI/UX 
-- and much more...
+
+
+
+Memory updated
+
+
+-🌐 HTML5
+-🎨 CSS3
+-💻 JavaScript
+-🐍 Python
+-🌐 Django
+-🎨 UI/UX
+-🔒 Cybersecurity
+-🗄️ SQL
+-📋 cPanel
+-☁️ AWS
+and much more...
+
+Let me know if you need any further changes!
 
 ## Contact Me 📬
 - **Email:** codingsuyog@gmail.com
